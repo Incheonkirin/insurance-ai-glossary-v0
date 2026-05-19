@@ -1,0 +1,43 @@
+# 보험 + AI 거버넌스 30 용어
+# 카테고리: AI 거버넌스 / 가명·결합 / 규제·법규 / 모델·평가 / 보험 재무·자본
+
+terms:
+  # AI 거버넌스 (6)
+  - { code: T-01, name: Responsible AI,         category: AI 거버넌스, en: Responsible AI }
+  - { code: T-02, name: 환각,                   category: AI 거버넌스, en: Hallucination }
+  - { code: T-03, name: 편향,                   category: AI 거버넌스, en: Bias }
+  - { code: T-04, name: 설명가능성,             category: AI 거버넌스, en: Explainability }
+  - { code: T-05, name: HITL,                   category: AI 거버넌스, en: Human-in-the-loop }
+  - { code: T-06, name: AI Audit Trail,         category: AI 거버넌스, en: AI Audit Trail }
+
+  # 가명·결합 (5)
+  - { code: T-07, name: 가명정보,               category: 가명·결합, en: Pseudonymized Data }
+  - { code: T-08, name: 가명결합,               category: 가명·결합, en: Pseudonym Linkage }
+  - { code: T-09, name: 적정성평가,             category: 가명·결합, en: Adequacy Assessment }
+  - { code: T-10, name: 익명정보,               category: 가명·결합, en: Anonymized Data }
+  - { code: T-11, name: 차분 프라이버시,        category: 가명·결합, en: Differential Privacy }
+
+  # 규제·법규 (6)
+  - { code: T-12, name: AI 기본법,              category: 규제·법규, en: AI Basic Act }
+  - { code: T-13, name: 금융분야 AI 가이드라인, category: 규제·법규, en: FSS AI Guideline }
+  - { code: T-14, name: 신용정보법,             category: 규제·법규, en: Credit Information Act }
+  - { code: T-15, name: 개인정보보호법,         category: 규제·법규, en: PIPA }
+  - { code: T-16, name: 책무구조도,             category: 규제·법규, en: Accountability Map }
+  - { code: T-17, name: 약관해석원칙,           category: 규제·법규, en: Clause Interpretation }
+
+  # 모델·평가 (7)
+  - { code: T-18, name: RAGAS,                  category: 모델·평가, en: RAGAS }
+  - { code: T-19, name: Faithfulness,           category: 모델·평가, en: Faithfulness }
+  - { code: T-20, name: PU Learning,            category: 모델·평가, en: Positive-Unlabeled Learning }
+  - { code: T-21, name: RAG,                    category: 모델·평가, en: Retrieval-Augmented Generation }
+  - { code: T-22, name: Embedding,              category: 모델·평가, en: Embedding }
+  - { code: T-23, name: NRS,                    category: 모델·평가, en: New-business Risk Score }
+  - { code: T-24, name: FDS,                    category: 모델·평가, en: Fraud Detection System }
+
+  # 보험 재무·자본 (6)
+  - { code: T-25, name: IFRS17,                 category: 보험 재무·자본, en: IFRS 17 }
+  - { code: T-26, name: K-ICS,                  category: 보험 재무·자본, en: K-ICS }
+  - { code: T-27, name: RBC,                    category: 보험 재무·자본, en: RBC }
+  - { code: T-28, name: CSM,                    category: 보험 재무·자본, en: Contractual Service Margin }
+  - { code: T-29, name: MCR,                    category: 보험 재무·자본, en: Minimum Capital Requirement }
+  - { code: T-30, name: 지급여력비율,           category: 보험 재무·자본, en: Solvency Ratio }
